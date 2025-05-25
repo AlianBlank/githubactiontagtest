@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.10](https://github.com/AlianBlank/githubactiontagtest/tree/1.0.10) (2025-05-25)
+
+[Full Changelog](https://github.com/AlianBlank/githubactiontagtest/compare/1.0.9...1.0.10)
+
+## [1.0.9](https://github.com/AlianBlank/githubactiontagtest/tree/1.0.9) (2025-05-25)
+
+[Full Changelog](https://github.com/AlianBlank/githubactiontagtest/compare/1.0.8...1.0.9)
+
+## [1.0.8](https://github.com/AlianBlank/githubactiontagtest/tree/1.0.8) (2025-05-25)
+
+[Full Changelog](https://github.com/AlianBlank/githubactiontagtest/compare/1.0.7...1.0.8)
+
 ## [1.0.7](https://github.com/AlianBlank/githubactiontagtest/tree/1.0.7) (2025-05-24)
 
 [Full Changelog](https://github.com/AlianBlank/githubactiontagtest/compare/1.0.6...1.0.7)
