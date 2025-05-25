@@ -42,11 +42,13 @@ jobs:
           git commit -m "[修改]1.修改更新日志"
 
       - name: change-version-by-tag
-        uses: AlianBlank/github-action-tag-version@1.0.7
+        uses: AlianBlank/github-action-tag-version@1.0.8
         with:
           version: ${{ github.ref_name }}
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          branch: ${{ github.head_ref }}
+          branch: ${{ github.ref }}
+          force: true
+          tags: true
